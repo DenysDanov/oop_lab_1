@@ -37,6 +37,7 @@ class Kadr{
     int getRozriad(){
         return rozriad;
     }
+    char *name(void){return name;}
 };
 
 int main(){
